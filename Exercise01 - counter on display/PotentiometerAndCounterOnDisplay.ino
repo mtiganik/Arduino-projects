@@ -7,7 +7,7 @@
       4 digit 7seg display
       5k linear potentiometer
       Pushbutton
-      1 kOhm resistors to connected to pushbutton and LED display 
+      1 kOhm resistors connected to pushbutton and LED display 
     Description: 
       Read potentiometer values to 4 digit 7seg display
     Add pushButton, which, when pressed, starts countdown
