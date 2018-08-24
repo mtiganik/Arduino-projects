@@ -5,8 +5,9 @@
     
   *****Hardware******
   1) OLED display
-  2) Micro SD card with adapter module
-  3) Joystick
+  2) Micro SD card that has some .txt files in it
+  3) Micro SD card adapter module
+  4) Joystick
  
 
   ******Task***** 
