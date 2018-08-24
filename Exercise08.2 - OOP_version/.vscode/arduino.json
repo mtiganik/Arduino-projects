@@ -1,0 +1,6 @@
+{
+    "sketch": "Exercise08_-_OOP_version.ino",
+    "board": "arduino:avr:megaADK",
+    "port": "COM9",
+    "output": "../build"
+}
